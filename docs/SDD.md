@@ -21,8 +21,6 @@ The F# approach to unit safety is particularly unique and performant as it is im
 
 ## How?
 
-
-
 ## Code Examples
 
 ## API Reference
