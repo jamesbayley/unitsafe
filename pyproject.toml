@@ -3,6 +3,7 @@ name = "unitsafe"
 version = "0.1.0"
 readme = "README.md"
 license = "MIT"
+documentation = "https://unitsafe.jamesbayley.io"
 repository = "https://github.com/jamesbayley/unitsafe.git"
 authors = ["James S. Bayley <https://www.linkedin.com/in/jsbayley>"]
 description = "A friendly way to handle engineering units in Python."
