@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Unitsafe</h1>
-  <p>A friendly, safer way to handle engineering units in Python.</p>
+  <p>A friendly way to handle engineering units in Python.</p>
 
   [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/jamesbayley/unitsafe)
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/jamesbayley/unitsafe/blob/main/.github/CODE_OF_CONDUCT.md)
@@ -31,7 +31,7 @@ Please visit the [Software Design Document](/docs/SDD.md) to learn more.
 
 ## Open Source
 
-Unitsafe is proudly open-source under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
+Unitsafe is proudly open-source under [MIT](https://choosealicense.com/licenses/mit/).
 
 ## Contributing
 

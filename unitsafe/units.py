@@ -1,8 +1,3 @@
-# SPDX-License-Identifier: AGPL-3.0-or-later
-# Unitsafe: A friendly, safer way to handle engineering units in Python.
-# Copyright (C) 2024 James S. Bayley
-
-
 from abc import ABC
 from math import pi
 from typing import Generic, Type, TypeVar, Union

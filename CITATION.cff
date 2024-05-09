@@ -9,9 +9,9 @@ authors:
     family-names: Bayley
 repository-code: 'https://github.com/jamesbayley/unitsafe'
 abstract: >-
-  A friendly, safer way to handle engineering units in Python.
+  A friendly way to handle engineering units in Python.
 keywords:
   - Mathematics
   - Engineering
   - Units
-license: AGPL-3.0-or-later
+license: MIT
