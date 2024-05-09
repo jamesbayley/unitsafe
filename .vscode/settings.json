@@ -1,0 +1,57 @@
+{  
+  "editor.rulers": [80],
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.inlineSuggest.enabled": true,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+
+  "debug.internalConsoleOptions": "neverOpen",
+  
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  "files.exclude": {
+    "**/.git": false,
+    "target/": false,
+    "poetry.lock": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    ".venv": false
+  },
+  
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": false,
+    "markdown": false
+  },
+
+  "powershell.powerShellDefaultVersion": "PowerShell",
+  "powershell.integratedConsole.showOnStartup": false,
+  "powershell.suppressAdditionalExeNotFoundWarning": false,
+
+  "python.analysis.autoFormatStrings": true,
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.languageServer": "Pylance",
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestPath": "pytest",
+
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always",
+      "source.fixAll": "explicit"
+    }
+  },
+
+  "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono', 'Fira Code', Menlo, Monaco, Consolas",
+
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.wrapTabs": true,
+}
