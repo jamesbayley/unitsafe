@@ -1,0 +1,36 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - main
+
+defaults:
+  run:
+    shell: pwsh
+
+jobs:
+  publish:
+    name: Publish
+    runs-on: Ubuntu-Latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+    
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Install Dependencies
+        run: poetry install
+
+      - name: Publish (Dry-Run)
+        run: |
+          poetry publish `
+            --build `
+            --username ${{ vars.PYPI_USERNAME }} `
+            --password ${{ secrets.PYPI_TOKEN }}
