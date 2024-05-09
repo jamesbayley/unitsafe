@@ -8,7 +8,7 @@
   [![CI](https://github.com/jamesbayley/unitsafe/actions/workflows/ci.yml/badge.svg)](https://github.com/jamesbayley/unitsafe/actions/workflows/ci.yml)
   [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-00add8)](https://choosealicense.com/licenses/agpl-3.0/)
   
-  [![Python](https://img.shields.io/badge/Python-3.12-3776ab)](https://www.python.org)
+  [![Python](https://img.shields.io/badge/Python-3.10_|_3.11_|_3.12-3776ab)](https://www.python.org)
 </div>
 
 ## Table of Contents
@@ -45,7 +45,7 @@ Unitsafe is proudly open-source under [AGPL-3.0](https://www.gnu.org/licenses/ag
 
 - Propose design improvements,
 - Develop and maintain the project, 
-- Enhance our testing and performance suite.
+- Enhance the testing and performance suite.
 
 ## Errata
 
