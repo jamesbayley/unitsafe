@@ -28,9 +28,10 @@ jobs:
       - name: Install Dependencies
         run: poetry install
 
-      - name: Publish (Dry-Run)
+      - name: Publish
         run: |
           poetry publish `
             --build `
             --username ${{ vars.PYPI_USERNAME }} `
-            --password ${{ secrets.PYPI_TOKEN }}
+            --password ${{ secrets.PYPI_TOKEN }} `
+            --skip-existing
