@@ -16,20 +16,25 @@
 		}
 	},
 	"customizations": {
+    "codespaces": {
+      "openFiles": [
+        "README.md"
+      ]
+    },
 		"vscode": {
 			"extensions": [
-        "bierner.markdown-preview-github-styles",
-        "bierner.markdown-mermaid",
-        "charliermarsh.ruff",
 				"github.copilot",
 				"github.vscode-github-actions",
-				"grapecity.gc-excelviewer",
 				"ms-azuretools.vscode-docker",
+        "ms-vscode.powershell",
         "ms-python.python",
 				"ms-python.vscode-pylance",
-        "ms-vscode.powershell",
-        "redhat.vscode-xml",
-				"tamasfe.even-better-toml"
+				"grapecity.gc-excelviewer",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-mermaid",
+				"tamasfe.even-better-toml",
+        "charliermarsh.ruff",
+        "redhat.vscode-xml"
 			]
 		}
 	}

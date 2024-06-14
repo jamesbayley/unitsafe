@@ -13,7 +13,7 @@
 
 ## Why?
 
-Engineers work with units daily. However, it's easy to introduce a unit mismatch when implementing calculations in Python. On the happenstance that a unit system _is_ introduced into the codebase, the implementation often fails to achieve idiomacy and it can feel both foreign and forced. Having previously worked in F#, I became familiar with its Units of Measure that neatly and efficiently solves this issue. When I subsequently returned to Python, I found the lack of unit-safety to be unnerving. This library is one attempt to help improve the correctness, safety and clarity of large engineering Python codebases, whilst somewhat adhering to the much-loved Pythonic culture.
+Engineers work with units daily. However, it's easy to introduce a unit mismatch when implementing calculations in Python. On the happenstance that a unit system _is_ introduced into the codebase, the implementation is often non-idiomatic and it can feel both foreign and forced. Having previously worked in F#, I became familiar with its Units of Measure that neatly and efficiently solves this issue. When I subsequently returned to Python, I found the lack of unit-safety to be unnerving. This library is one attempt to help improve the correctness, safety and clarity of large engineering Python codebases, whilst somewhat adhering to the much-loved Pythonic culture.
 
 ## What?
 
