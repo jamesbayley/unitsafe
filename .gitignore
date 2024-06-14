@@ -5,5 +5,11 @@ poetry.lock
 .venv/
 dist/
 
+# Ruff
+.ruff_cache/
+
+# Test Coverage
+.coverage
+
 # MacOS
 .DS_Store
