@@ -4,12 +4,13 @@
 
   [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/jamesbayley/unitsafe)
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/jamesbayley/unitsafe/blob/main/.github/CODE_OF_CONDUCT.md)
+
+  [![Python](https://img.shields.io/badge/Python-3.8_|_3.9_|_3.10_|_3.11_|_3.12-3776ab?logo=python&&logoColor=white)](https://www.python.org)
   
   [![CI](https://github.com/jamesbayley/unitsafe/actions/workflows/ci.yml/badge.svg)](https://github.com/jamesbayley/unitsafe/actions/workflows/ci.yml)
-  [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-00add8)](https://choosealicense.com/licenses/agpl-3.0/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-00add8)](https://choosealicense.com/licenses/mit/)
   
-  [![Python](https://img.shields.io/badge/Python-3.10_|_3.11_|_3.12-3776ab)](https://www.python.org)
-</div>
+  </div>
 
 ## Table of Contents
 
