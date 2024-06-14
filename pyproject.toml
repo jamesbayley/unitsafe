@@ -10,11 +10,10 @@ packages = [{ include = "unitsafe" }]
 classifiers = [
   "License :: OSI Approved :: MIT License",
   "Operating System :: OS Independent",
-  "Intended Audience :: Academia/Research",
+  "Intended Audience :: Science/Research",
   "Intended Audience :: Developers",
   "Intended Audience :: Education",
-  "Topic :: Scientific/Engineering :: Civil Engineering",
-  "Topic :: Scientific/Engineering :: Structural Engineering",
+  "Topic :: Scientific/Engineering",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3.8",
   "Programming Language :: Python :: 3.9",
